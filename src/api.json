@@ -1,0 +1,51 @@
+{
+    "categorias" : [
+        {
+            "id": 1,
+            "descripcion": "Lo mejor de la semana",
+            "title": "Destacados",
+            "playlist": [
+                {
+                    "title": "El cine",
+                    "autor": "Damaso Salgado",
+                    "type": "video",
+                    "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+                    "cover": "cine.png",
+                    "id": 1
+                },
+                {
+                    "title": "La programacion",
+                    "autor": "Damaso Salgado",
+                    "type": "audio",
+                    "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
+                    "cover": "programacion-audio.png",
+                    "id": 2
+                },
+                {
+                    "title": "Lo mejor de javascript",
+                    "autor": "Damaso Salgado",
+                    "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+                    "type": "video",
+                    "cover": "javascript.png",
+                    "id": 3
+                }
+
+            ]
+        },
+        {
+            "id": 2,
+            "descripcion": "Desarrollo de software",
+            "title": "JavaScript",
+            "playlist": [
+                {
+                    "title": "Lo mejor de javascript",
+                    "autor": "Damaso Salgado",
+                    "type": "video",
+                    "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+                    "cover": "javascript.png",
+                    "id": 1
+                }
+            ]
+        }
+    ]
+}
